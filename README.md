@@ -12,7 +12,7 @@ To install the component run:
 $ bower install angular-waffle
 </pre>
 
-You're then given a waffle service that exposes functions which return biblical quantities of bulls*it, in various forms.
+You're then given a waffle service that exposes functions, which return biblical quantities of bulls*it, in various forms.
 
 <pre>
 angular
