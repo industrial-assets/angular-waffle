@@ -1,7 +1,9 @@
 # angular-waffle
 The angular-waffle Bower component
 
-This is an Angular port of Andrew Clarke's Waffle Generator, written without his permission but hopefully with his consent. I am his nephew after all...
+The Waffle Generator is a popular method of creating quanta of gibberish that is unnervingly pleasant to read. Use this component to pad out your pages, (or dissertations), where you'd normally use that boring Lorum Ipsum rubbish.
+
+This is an Angular port of Andrew Clarke's Waffle Generator, written without his permission but hopefully with his consent. I am his nephew after all... it's not like he can't invite me to family functions.
 
 To install the component run:
 <pre>
