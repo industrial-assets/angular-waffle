@@ -3,6 +3,8 @@ The angular-waffle Bower component
 
 The Waffle Generator is a popular method of creating quanta of gibberish that is unnervingly pleasant to read. Use this component to pad out your pages, (or dissertations), where you'd normally use that boring Lorum Ipsum rubbish.
 
+For an example of what it produces, <a href="http://www.mml.co.uk/waffle.php" target="_blank">click here</a>
+
 This is an Angular port of Andrew Clarke's Waffle Generator, written without his permission but hopefully with his consent. I am his nephew after all... it's not like he can't invite me to family functions.
 
 To install the component run:
