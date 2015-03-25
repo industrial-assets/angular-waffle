@@ -56,3 +56,5 @@ angular
 <p>The resultant twaddle will be limited to the value you put in as [num]. It will also use the generated title of the page if there is one, and stick an Author's name on the end.</p>
 
 For an example project <a href="https://github.com/Beclamide/angular-waffle-example">Click here</a>
+
+Or, for a demo <a href="http://codepen.io/Beclamide/full/YPBJor">Click here</a>
